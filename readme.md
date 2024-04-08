@@ -201,3 +201,11 @@ array = [3, 2, 4]
 for value in array:
   print(value * value)
 ```
+
+**Zadanie dodatkowe**: Napisz program, który sumuje dodatnie liczby z wcześniej zadeklarowanej listy. W poniższym kodzie znajduje się przykładowa lista `array`, dla której funkcja `print` wypisze **16**.
+
+```py
+array = [4, 1, -2, 8, 3, -5]
+# TODO
+print(array_sum) # 16
+```
