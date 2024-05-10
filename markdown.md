@@ -20,10 +20,11 @@
   
 - **Zorientowany pod dokumenty papierowe**. Stanowi najlepsze rozwiązanie na przygotowanie dokumentów do druku.
 - Niski próg wejścia, będąc prostym i intuicyjnym narzędziem do tworzenia dokumentów.
-- Szeroko znany i popularny, co sprawia, że więcej osób jest zdolne do edytowania tych dokumentów.
+- Duża popularność, która sprawia, że więcej osób jest zdolne do edytowania tych dokumentów.
 - **Połączenie formy i treści**
   - **Precyzyjna kontrola** - umożliwia dostosowanie stylów czcionek, kolorów, rozmiarów i innych elementów wizualnych bez znajomości języka znaczników.
-  - **Bogate możliwości edycji** - oprócz formatowania tekstu, Word oferuje funkcje edycji obrazów, wykresów, tabel oraz innych elementów wizualnych, wszystko w jednym miejscu.
+  - **Bogate możliwości edycji** - oprócz formatowania tekstu, oferuje funkcje edycji obrazów, wykresów, tabel oraz innych elementów wizualnych, wszystko w jednym miejscu.
+- **Słownik języka** sprawdzający pisownię, co zmniejsza liczbę błędów.
 
 # Syntax
 
