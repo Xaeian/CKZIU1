@@ -191,6 +191,16 @@ Wstawianie zawartości z określonej ścieżki jest doskonałym sposobem na wyś
 
 Cechą języka Markdown jest to, że kod sam w sobie ma jak najbardziej przypominać oryginalny dokument, dzięki czemu nawet bez konwertera, który przekształci go w ładny sposób, dokument jest stosunkowo czytelny. Szczególnie wyraźne staje się to podczas tworzenia w nim tabel, które budujemy ze znaków `|`, `-` i `:`, z których ostatni wskazujemy na wyrównanie.
 
+```
+|  Lp   | Państwo           | Powierzchnia | Liczba mieszkańców |
+| :---: | :---------------- | -----------: | -----------------: |
+|   1   | Rosja             |   17 098 242 |        146 238 185 |
+|   2   | Kanada            |    9 984 670 |         37 943 231 |
+|   3   | Chiny             |    9 596 960 |        332 403 650 |
+|   4   | Stany Zjednoczone |    9 525 067 |      1 411 778 724 |
+|   5   | Brazylia          |    8 515 767 |        217 240 060 |
+```
+
 Największe państwa świata:
 
 |  Lp   | Państwo           | Powierzchnia | Liczba mieszkańców |
