@@ -1,7 +1,7 @@
 **Pytania teoretyczne**:
 
 - Jakie rozszerzenie powinny mieć programy/skrypty python?
-- Co jest niezbędne żeby programować _(uruchamiać skrpt)_ **python**?
+- Co jest niezbędne żeby programować _(uruchamiać skrypt)_ **python**?
 - Jak uruchomić progrm/skrpyt python `test` _(gdzie `test` to nazwa pliku z kodem python)_?
 
 **Z1** Wskaz typy zmiennych ustalonych w poniższym kodzie _(odpowiedzi w komentarzach)_:
@@ -21,7 +21,7 @@ f = [7, 2.3, "text"] # list
 name = "Ola"
 year = 10
 hello = # ...
-print(hello) # 
+print(hello)
 ```
 
 **Pozostałe zadania** - Co zostanie wydrukowane w konsoli po uruchomieniu poniższych skryptów?:
