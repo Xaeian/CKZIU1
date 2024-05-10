@@ -9,7 +9,7 @@ W dokumencie znajdziesz elementy składni **Markdown**, zarówno te bardziej, ja
 Aby utworzyć nagłówek, na początku nowej linii umieść `#`. Liczba użytych znaków `#` odpowiada poziomowi nagłówka.
 
 ```md
-# Tytuł
+# Tytół
 ## Rozdział
 ### Podrozdział
 #### Sekcja
@@ -177,10 +177,8 @@ Jeżeli chcemy, aby zawartość dokumentu lub pliku znalazła się w tym dokumen
 Wstawianie zawartości z określonej ścieżki jest doskonałym sposobem na wyświetlanie grafik. Podobnie jak w przypadku linków, obrazy mogą być umieszczone lokalnie w folderze z dokumentem lub pobierane z internetu.
 
 ```
-![Obraz z rozszerzeniem PNG](./logo-markdown.png)
+![Obraz z rozszerzeniem PNG](path/to/image.jpg)
 ```
-
-![Obraz z rozszerzeniem PNG](./logo-markdown.png)
 
 ### Tabele
 
@@ -245,6 +243,6 @@ Minimalne wymagania projektowe:
 - [ ] Każdy projekt/dokument musi składać się z **pliku głównego** `readme.md` oraz przynajmniej **trzech plików dodatkowych** `.md`.
 - [ ] Muszą być stosowane [wyróżnienia](#wyróżnianie-tekstu) w tekście w sposób spójny.
 - [ ] Każda strona/plik dokumentu musi zawierać przynajmniej **jedną grafikę**/obraz _(grafiki muszą być umieszczone lokalnie w projekcie)_.
-- [ ] Projekt w całości musi zawierać przynajmniej **dwie listy** wypunktowane/numerowane 
+- [ ] Projekt w całości musi zawierać przynajmniej **dwie listy**  
 - [ ] Projekt musi zawierać przynajmniej **jedną tabelę**.
 - [ ] Projekt musi zawierać przynajmniej **jeden link** zewnętrzny.
