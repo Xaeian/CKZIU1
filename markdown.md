@@ -243,16 +243,14 @@ Na początku Markdown został stworzony jako narzędzie do tworzenia dokumentacj
 
 #### Blok kodu w języku Python
 
-```
-```py
-a = "5"
-b = 10
-c = a + str(b) # łączenie str'ingów
-print(c)
-d = b + int(a) # dodawanie int'ów
-print(d)
-```
-```
+    ```py
+    a = "5"
+    b = 10
+    c = a + str(b) # łączenie str'ingów
+    print(c)
+    d = b + int(a) # dodawanie int'ów
+    print(d)
+    ```
 
 ```py
 a = "5"
@@ -290,3 +288,8 @@ Minimalne wymagania projektowe:
 - [ ] Projekt w całości musi zawierać przynajmniej **dwie listy** wypunktowane/numerowane 
 - [ ] Projekt musi zawierać przynajmniej **jedną tabelę**.
 - [ ] Projekt musi zawierać przynajmniej **jeden link** zewnętrzny.
+
+# TODO
+
+- Wzory matematyczne LATEX
+- grafy mermaid
