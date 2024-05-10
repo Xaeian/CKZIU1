@@ -160,7 +160,7 @@ jednak C wciąż nie ma sobie równych w wielu zastosowaniach [^1].
 Aby przenieść się do innego dokumentu/pliku, należy stworzyć **hiperłącze**. Może ono prowadzić zarówno do dokumentów lub innych plików znajdujących się lokalnie w folderze z dokumentem, jak i do zawartości dostępnej w internecie. W składni obie opcje się nie różnią, jedynie adres/ścieżka mają inną postać.
 
 ```
-[Link do pliku lokalnego](path/to/file.md)
+[Link do pliku lokalnego](./path/to/file.md)
 [Link do pliku w internecie](https://some-website.com)
 ```
 
@@ -182,10 +182,10 @@ Jeżeli chcemy, aby zawartość dokumentu lub pliku znalazła się w tym dokumen
 Wstawianie zawartości z określonej ścieżki jest doskonałym sposobem na wyświetlanie grafik. Podobnie jak w przypadku linków, obrazy mogą być umieszczone lokalnie w folderze z dokumentem lub pobierane z internetu.
 
 ```
-![Obraz z rozszerzeniem PNG](./logo-markdown.png)
+![Obraz z rozszerzeniem PNG](./path/to/image.png)
 ```
 
-![Obraz z rozszerzeniem PNG](./logo-markdown.png)
+![Logo Markdown](./logo-markdown.png)
 
 ### Tabele
 
