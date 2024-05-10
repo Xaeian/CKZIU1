@@ -191,7 +191,9 @@ Aby przenieść się do innego dokumentu/pliku, należy stworzyć **hiperłącze
 ```
 
 [Link do pliku lokalnego](./aux-file.md)
+
 [Link do pliku w internecie](https://google.com)
+
 [Link do nagłówka w tym pliku](#nagłówki)
 
 Jeżeli chcemy, aby zawartość dokumentu lub pliku znalazła się w tym dokumencie _(została do niego skopiowana)_, wystarczy przed linkiem wstawić znak `!`.
