@@ -18,6 +18,8 @@ Aby utworzyć nagłówek, na początku nowej linii umieść `#`. Liczba użytych
 
 Aby mocno wyodrębnić jakieś fragmenty tekstu bez dodawania nagłówka, możemy wstawić linię poziomą:
 
+!!! Test
+
 ```
 ---
 ```
