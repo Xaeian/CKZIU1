@@ -38,10 +38,15 @@ _Tekst pochylony_
 ```
 
 **Tekst pogrubiony**
+
 _Tekst pochylony_
+
 `Tekst jako code`
+
 ~~Tekst przekreślony~~
+
 ==Tekst podświetlony==
+
 > Tekst jako cytat
 
 ### Indeksy
@@ -239,9 +244,10 @@ Projekt obejmuje stworzenie własnego dokumentu/projektu w technologii **Markdow
 - **Tutoriala** obejmującego wybraną tematykę, składającego się z strony tytułowej oraz co najmniej trzech lekcji.
 - **Książka kucharska** z stroną tytułową o gotowaniu i dietetyce z trzema przepisami.
 - **Przewodnik turystyczny** po wybranym mieście lnnej lokacji, z ogólnym opisem oraz trzema najciekawszymi miejscówkami.
-- **Bloga** - składającego się ze strony tytułowej o nas lub fikcyjnej postaci, wraz z trzema wpisami.
+- **Blog** składający się ze strony tytułowej o nas lub fikcyjnej postaci, wraz z trzema wpisami.
 
 Minimalne wymagania projektowe:
+
 - [ ] Każdy projekt/dokument musi składać się z **pliku głównego** `readme.md` oraz przynajmniej **trzech plików dodatkowych** `.md`.
 - [ ] Muszą być stosowane [wyróżnienia](#wyróżnianie-tekstu) w tekście w sposób spójny.
 - [ ] Każda strona/plik dokumentu musi zawierać przynajmniej **jedną grafikę**/obraz _(grafiki muszą być umieszczone lokalnie w projekcie)_.
