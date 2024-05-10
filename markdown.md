@@ -201,8 +201,6 @@ Jeżeli chcemy, aby zawartość dokumentu lub pliku znalazła się w tym dokumen
 ![Link do pliku w internecie](https://google.com)
 ```
 
-![Zawartość pliku lokalnego](./aux-file.md)
-
 ### Obrazy
 
 Wstawianie zawartości z określonej ścieżki jest doskonałym sposobem na wyświetlanie grafik. Podobnie jak w przypadku linków, obrazy mogą być umieszczone lokalnie w folderze z dokumentem lub pobierane z internetu.
