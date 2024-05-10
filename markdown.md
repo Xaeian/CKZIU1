@@ -1,8 +1,33 @@
-Markdown jest technologią przeznaczonado tworzenia dokumentów tekstowych, czyli tak jak MS Word, jednak różnic między tymi narzędziami jest więcej niż podobieństw. MS Word jest zoriętowany pod tworzenie 
+## Markdown `.md`
 
-Kod Markdown jest konwertowany na **HTML**, ale jest znacznie prostszy od niego, co czyni go najłatwiejszym sposobem publikowania treści/dokumentów w internecie.
+**Markdown** jest technologią przeznaczonado tworzenia dokumentów tekstowych, czyli tak jak **MS Word**, jednak różnic między tymi narzędziami jest więcej niż podobieństw.
 
-W dokumencie znajdziesz elementy składni **Markdown**, zarówno te bardziej, jak i mniej przydatne. 
+### Zalety i specyfika Markdown:
+
+- **Zorientowany pod internet**. Jest konwertowany na **HTML**, ale jest znacznie prostszy od niego, co czyni go najłatwiejszym sposobem publikowania treści w internecie.
+- Pliki markdown są lekkie i można je otworzyć w dowolnym edytorze tekstu, nie wymagając specjalistycznego oprogramowania. 
+- **Oddzielenie formy od treści**:
+  - Wymuszenie jednolitego stylu dokumentów we wszystkich sekcjach organizacji jest praktykowane. Nawet podczas przenoszenia i integracji dokumentacji między różnymi firmami, zachowany zostaje spójny styl. Ten styl zależy od silnika odpowiedzialnego za prezentację, który jest zintegrowany z narzędziami do edycji, takimi jak VSCode, oraz platformami publikacyjnymi, takimi jak GitHub czy GitLab.
+  - Pozwala to skoncentrować się na treści dla osób tworzących dokumenty, co może zminimalizować liczbę błędów i zwiększyć jakość dokumentów pod względem merytorycznym.
+- Pliki tekstowe z prostym formatowaniem, co pozwala na integracje **systemu kontroli wersji GIT**, co przynosi szereg korzyści:
+  - **Historia zmian** - umożliwia śledzenie, kto i kiedy dokonał zmian, co pozwala prześledzić historię dokumentu i zidentyfikować różnice między wersjami, ułatwiając zrozumienie zmian.
+  - **Współpraca** - ułatwia pracę zespołową, umożliwiając wielu osobom równoczesną pracę nad dokumentem.
+  - **Autobackup**-  umożliwia przywrócenie poprzednich wersji, jeśli nowe zmiany są niepożądane.
+  - **Rozgałęzienia _(branching)_** - pozwala na jednoczesną pracę nad różnymi rozdziałami.
+  - **Oznaczanie autorów** - pokazuje, kto dokonał konkretnych zmian, zwiększając przejrzystość.
+
+### Zalety i specyfika MS Office:
+  
+- **Zorientowany pod dokumenty papierowe**. Stanowi najlepsze rozwiązanie na przygotowanie dokumentów do druku.
+- Niski próg wejścia, będąc prostym i intuicyjnym narzędziem do tworzenia dokumentów.
+- Szeroko znany i popularny, co sprawia, że więcej osób jest zdolne do edytowania tych dokumentów.
+- **Połączenie formy i treści**
+  - **Precyzyjna kontrola** - umożliwia dostosowanie stylów czcionek, kolorów, rozmiarów i innych elementów wizualnych bez znajomości języka znaczników.
+  - **Bogate możliwości edycji** - oprócz formatowania tekstu, Word oferuje funkcje edycji obrazów, wykresów, tabel oraz innych elementów wizualnych, wszystko w jednym miejscu.
+
+# Syntax
+
+Niżej w dokumencie znajdziesz znaczniki **Markdown**, czyli elementy składni, zarówno te bardziej, jak i mniej przydatne.
 
 ## Nagłówki
 
@@ -248,7 +273,7 @@ Emotikony możemy kopiwać _(np. [stąd](https://pl.piliapp.com/emoji/list/))_ i
 
 👍 + :heart:
 
-## Projekt
+# Projekt
 
 Projekt obejmuje stworzenie własnego dokumentu/projektu w technologii **Markdown**, który będzie stanowić:
 
