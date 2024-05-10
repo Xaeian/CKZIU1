@@ -291,5 +291,5 @@ Minimalne wymagania projektowe:
 
 # TODO
 
-- Wzory matematyczne LATEX
-- grafy mermaid
+- [ ] Wzory matematyczne **LATEX**
+- [ ] Diagramy **Mermaid**
